@@ -2,9 +2,9 @@
 
 This is a todo example written in Deku v2
 
-[demo]
+[demo]()
 
-##Usage
+## Usage
 
 ```
 npm install
@@ -13,7 +13,7 @@ npm start
 ```
 
 ## Thanks
-* [Redux Todos Example](http://redux.js.org/docs/basics/ExampleTodoList.html)x
+* [Redux Todos Example](http://redux.js.org/docs/basics/ExampleTodoList.html)
 
 ## License
 

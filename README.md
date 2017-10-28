@@ -1,4 +1,4 @@
-## Deku Todo
+# Deku Todo
 
 This is a todo example written in Deku v2
 

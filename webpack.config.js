@@ -3,7 +3,7 @@ let HtmlWebpackPlugin = require('html-webpack-plugin')
 let CleanWebpackPlugin = require('clean-webpack-plugin')
 let webpack = require('webpack')
 const path = require('path')
-const ASSET_PATH = process.env.ASSET_PATH || '/dist'
+const ASSET_PATH = process.env.ASSET_PATH || '/'
 
 
 

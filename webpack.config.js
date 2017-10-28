@@ -21,7 +21,7 @@ module.exports =  {
     },
     plugins: [
         // 清除dist文件夹
-        new CleanWebpackPlugin(['dist']),
+        // new CleanWebpackPlugin(['./']),
         // new UglifyjsWebpackPlugin({
         //     sourceMap: true
         // }),
@@ -57,7 +57,7 @@ module.exports =  {
     output: {
         filename: '[name].js',
         // 输出路径
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, './'),
         publicPath: ASSET_PATH,
         // 设置动态加载的js文件名称， 要配合/* webpackChunkName:"lazy" */ 
         chunkFilename: "[name].js" 

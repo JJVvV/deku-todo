@@ -2,7 +2,7 @@
 
 This is a todo example written in Deku v2
 
-[Demo](https://jjvvv.github.io/deku-todo/)
+[Demo here](https://jjvvv.github.io/deku-todo/)
 
 <div align="center">
 	<a href="https://jjvvv.github.io/deku-todo/" align="center">

@@ -2,7 +2,7 @@
 
 This is a todo example written in Deku v2
 
-[demo]()
+[demo](https://jjvvv.github.io/deku-todo/)
 
 ## Usage
 
